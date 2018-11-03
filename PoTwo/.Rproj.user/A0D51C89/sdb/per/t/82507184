@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Hello, world!\n#\n# This is an example function named 'hello'\n# which prints 'Hello, world!'.\n#\n# You can learn more about package authoring with RStudio at:\n#\n#   http://r-pkgs.had.co.nz/\n#\n# Some useful keyboard shortcuts for package authoring:\n#\n#   Build and Reload Package:  'Ctrl + Shift + B'\n#   Check Package:             'Ctrl + Shift + E'\n#   Test Package:              'Ctrl + Shift + T'\n\nPoTwo <- function(x) {\n  return(x^2)\n}\n\n",
+    "created" : 1541164647299.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "708420079",
+    "id" : "82507184",
+    "lastKnownWriteTime" : 1541164810,
+    "last_content_update" : 1541164810892,
+    "path" : "~/PoTwo/R/PoTwo.R",
+    "project_path" : "R/PoTwo.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
